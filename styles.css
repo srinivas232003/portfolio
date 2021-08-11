@@ -42,7 +42,8 @@ h3{
 
 img[alt="mount"]{
     margin-top:3vh;
-    width:45%;
+    max-width:100%;
+    height:auto;
 }
 img.ucloud{
    
